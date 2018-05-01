@@ -1,0 +1,1 @@
+# Script to download all the images conatined in huskies.json
