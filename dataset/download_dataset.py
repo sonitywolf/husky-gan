@@ -1,1 +1,1 @@
-# Script to download all the images conatined in huskies.json
+# Script to download all the images contained in husky_images.json
