@@ -2,6 +2,8 @@
 
 import urllib.request , json
 
+os.makedirs(path, exist_ok=True) #create directory if it doesn't exists
+
 with open('husky_images.json') as json_data:
     huskies = json.load(json_data)
     huskies_total = len(huskies)
